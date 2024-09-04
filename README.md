@@ -23,9 +23,10 @@ Below are the instructions for this assignment. Your repository should automatic
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
-
+Raunak Chitre raunakc24
 * **Your partner's name and PID:**
-
+  Sri Vangaru sriv04
 * **Link to selected coding challenge:**
-
+https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75
 * **Summary of partner's interview feedback:**
+Need to explain thought process better.
